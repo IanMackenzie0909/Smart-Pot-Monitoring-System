@@ -16,7 +16,7 @@ Features an integrated microcontroller that analyzes sensor data and automatical
 Employs a camera module (ESP32-CAM) to capture and track the plant’s growth and health status in real-time.
 
 4. **Cross-Platform Data Visualization**  
-Integrates with the Blynk IoT platform, enabling users to monitor sensor readings and live video feeds via a mobile app or web interface from anywhere.
+Integrates with the Blynk IoT platform, enabling users to monitor sensor readings and live video feeds via a mobile app or web dashboard from anywhere.
 
 ### Ⅱ. Motivation
 
