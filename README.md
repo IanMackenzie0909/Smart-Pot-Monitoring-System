@@ -48,7 +48,7 @@ Our goals are centered on delivering both practical utility and technical valida
 
 ## Product Design
 
-<img src="images/Plot.JPG" width="200px"> <img src="images/draft.png" width="350px">  <img src="images/Design2.jpg" width="350px"> 
+![Product Plot](images/Plot.JPG) ![Product Draft](images/draft.png) ![Product Design](images/Design2.jpg)
 
 ## System Architecture
 
@@ -71,13 +71,13 @@ To ensure a robust IIoT testbed, the functions are organized as follows:
 
 ### Ⅲ. Architecture Diagram
 
-<img src="images/LayeredArchitecture .png" width="400px"> 
+![Architecture](images/LayeredArchitecture.png)
 
 * **ESP32-CAM Software Logic & Execution Flow**
-<img src="images/SystemStructureESP32.png" width="400px">
+![StructureESP32](images/SystemStructureESP32.png)
 
 * **Blynk Cloud & ESP32-CAM Integration Architecture**
-<img src="images/StructureBlynk.png" width="700px"> 
+![Blynk](images/StructureBlynk.png)
 
 ## Hardware
 
@@ -94,7 +94,7 @@ The hardware design emphasizes power isolation and precise signal routing.
 
 #### **Wiring Diagram**
 
-<img src="images/WiringDiagram.jpg" width="600px">
+![Wiring](images/WiringDiagram.jpg)
 
 ## Software
 
@@ -117,11 +117,11 @@ The hardware design emphasizes power isolation and precise signal routing.
 
 The system utilizes the Blynk IoT platform to provide a monitoring experience across devices.  
 
-* **Web Dashboard** 
-  <img src="images/Dashboard.jpg" width="600px"> 
+* **Web Dashboard**
+  ![Dashboard](images/Dashboard.jpg)
 
-* **Mobile App Interface** 
-  <img src="images/Mobile.jpg" width="300px">
+* **Mobile App Interface**
+  ![Mobile](images/Mobile.jpg)
 
 ## Marketing
 
